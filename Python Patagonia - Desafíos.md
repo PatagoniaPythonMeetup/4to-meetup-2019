@@ -30,6 +30,7 @@ Dado un artista, se deberán obtener los nombres de los discos listados en el ap
 Ejemplo de entradas:
 - Artista/enlace: Gustavo Cerati / [https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W)
 
+![spotify](imgs/desafio-spotify-aparece-en.png)
 ### Extra
 Extender el desafío a una lista de artistas
 
